@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Mari
 
-- 🔭 Hoje trabalho em desenvolvimento de jogos mobile
-- 🌱 Estou estudando C# 
+- 🔭 Tenho interesse em Eletrônica Digital
+- 🌱 Estou estudando C
 - 😄 Pronomes: ela/dela
 
